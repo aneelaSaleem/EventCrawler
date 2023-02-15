@@ -1,5 +1,4 @@
 ## Lucerne Festival Events Crawler
-### Future Demand coding challenge
 
 This project crawls summer festival events from [Lucerne Festival](!https://www.lucernefestival.ch/en/program/summer-festival-23) and save into postgress db.
 
